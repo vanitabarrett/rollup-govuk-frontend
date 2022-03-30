@@ -9,7 +9,10 @@
     "serve": "^11.3.2"
   },
   "dependencies": {
-    "date-fns": "^2.16.1"
+    "date-fns": "^2.16.1",
+    "govuk-frontend": "github:alphagov/govuk-frontend#59053a8bf551795c4955cb88d9a133fe972e7ab3",
+    "node-sass": "^7.0.1",
+    "rollup-plugin-scss": "^3.0.0"
   },
   "scripts": {
     "build": "rollup -c",
