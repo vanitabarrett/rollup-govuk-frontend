@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "date-fns": "^2.16.1",
-    "govuk-frontend": "github:alphagov/govuk-frontend#59053a8bf551795c4955cb88d9a133fe972e7ab3",
+    "govuk-frontend": "github:alphagov/govuk-frontend#c9cee9e4",
     "node-sass": "^7.0.1",
     "rollup-plugin-scss": "^3.0.0"
   },
